@@ -1,0 +1,12 @@
+{
+  "name": "parcel-examples",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@mui/material": "^5.11.10",
+    "framer-motion": "^10.0.0",
+    "next": "^12.2.0",
+    "react-easy-marquee": "^1.2.4"
+  }
+}
